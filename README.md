@@ -9,7 +9,7 @@ Hey there! 👋 I'm a Bachelor's student in Software Engineering at Far Eastern 
 ![](https://nirzak-streak-stats.vercel.app/?user=Nereded&theme=gotham&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Nereded&theme=gotham&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br/>
 # fesf
-![](https://github-readme-codewars-stats.herokuapp.com/api/?username=nereded&badge&colormode=dark_mode)
+![Codewars](https://github.r2v.ch/codewars?user=Nereded&theme=gradient)
 
 
 ### ✍️ Random Dev Quote
