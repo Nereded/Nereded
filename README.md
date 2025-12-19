@@ -9,6 +9,8 @@ Hey there! 👋 I'm a Bachelor's student in Software Engineering at Far Eastern 
 ![](https://nirzak-streak-stats.vercel.app/?user=Nereded&theme=gotham&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Nereded&theme=gotham&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+https://github-readme-codewars-stats.herokuapp.com/api/?username=Nereded&badge&colormode=dark_mode
+
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
