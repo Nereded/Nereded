@@ -10,8 +10,6 @@ Hey there! 👋 I'm a Bachelor's student in Software Engineering at Far Eastern 
 ![Codewars](https://github.r2v.ch/codewars?user=Nereded&stroke=%23BB432C&theme=dark_red)
 
 
-
-
 ---
 [![](https://visitcount.itsvg.in/api?id=Nereded&icon=2&color=0)](https://visitcount.itsvg.in)
 
