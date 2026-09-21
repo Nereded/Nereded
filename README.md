@@ -1,8 +1,8 @@
 # 💫 About Me:
 ![](https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif)<br/>
 
-Hey there! 👋 I'm a Bachelor's student in Software Engineering at Far Eastern Federal University (FEFU), at the Institute of Mathematics and Computer Technologies 🎓<br><br>
-My coding journey started at Yandex.Lyceum — I completed their one-year Python basics course 🐍 and then the advanced industrial Python programming course ⚙️. That's where I truly fell in love with building things with code! 💻Now I'm balancing university studies with hands-on practice — here in my repos, you'll find my path from simple scripts to more complex projects. 🌱 Always learning, always building! 🚀
+Hey there! I'm a Bachelor's student in Software Engineering at Far Eastern Federal University (FEFU), at the Institute of Mathematics and Computer Technologies <br><br>
+My coding journey started at Yandex.Lyceum - I completed their one-year Python basics course and then the advanced industrial Python programming course. That's where I truly fell in love with building things with code! Now I'm balancing university studies with hands-on practice - here in my repos, you'll find my path from simple scripts to more complex projects. Always learning, always building! 🚀
 
 ---
 
